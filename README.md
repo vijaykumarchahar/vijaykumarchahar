@@ -1,0 +1,6 @@
+Dr. Vijay Kumar is Assistant Professor in Computer Science and Engineering Department, NIT Hamirpur. He received his Ph.D. degree from NIT Kuruksherta. Previously, he received M.Tech. and B.Tech. degrees from GJUS&T, Hisar and M.M. Engineering College, Mullana, respectively. He has 4 years of teaching and research experience in the Thapar Institute of Engineering & Technology, Patiala. Prior, he has 8 years of teaching experience in various reputed institutes. He completed 2 DST SERB sponsored research projects. Presently, he is working on 1 CSIR sponsored research project. He has published more than 100 research papers in International Journals/Conferences. He has many book chapters in international repute publishers. He has supervised many Ph.D. and M.Tech. thesis on Metaheuristics, Image Mining, and Data Clustering. He is the reviewer of several reputed SCI journals. He is member of ACM, CSI, International Association of Engineers, International Association of Computer Science and Information Technology, Singapore. His current research area is Soft Computing, Data Mining, Deep Learning, Steganography, and Pattern Recognition.
+
+<!---
+vijaykumarchahar/vijaykumarchahar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
